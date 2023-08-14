@@ -1,0 +1,30 @@
+class Rohit{
+	public void show() {
+		for(int i=1;i<=10;i++) {
+		System.out.println("Hi Ram");
+		
+	}
+}
+}
+
+class Ram{
+	public void show() {
+		for(int i=1;i<=10;i++) {
+			System.out.println("Hello Rohit");
+		}
+	}
+}
+
+public class Boni {
+
+	public static void main(String[] args) {
+		Rohit rohit=new Rohit();
+		Ram ram=new Ram();
+		
+		rohit.show();
+		ram.show();
+		
+
+	}
+
+}

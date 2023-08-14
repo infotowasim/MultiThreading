@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Runnable class Lambda&apos; to &apos;Runnable Interface Lambda&apos;" description="Rename resource &apos;Runnable class Lambda&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Runnable class Lambda" name="Runnable Interface Lambda" stamp="1666721443119" updateReferences="true"/>
+</session>

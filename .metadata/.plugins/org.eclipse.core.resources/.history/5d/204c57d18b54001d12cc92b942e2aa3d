@@ -1,0 +1,28 @@
+class Hi{
+	public void show() {
+		for(int i=0; i<=5; i++) {
+			System.out.println("Hi");
+		}
+	}
+}
+
+class Hello{
+	public void show() {
+		for(int i=0; i<=5; i++) {
+			System.out.println("Hello");
+		}
+	}
+}
+public class A {
+
+	public static void main(String[] args) {
+		
+        Hi hi=new Hi();
+        Hello hello=new Hello();
+        
+        hi.show();
+        hello.show();
+		
+	}
+
+}
